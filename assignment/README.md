@@ -25,3 +25,5 @@ This folder is meant to support learning, project practice, and submission-relat
 ## License / Usage
 
 This content is free to use for educational and learning purposes. Feel free to adapt or build upon it for your club, coursework, or personal practice.
+
+*This README is Written with Assistance from AI*
